@@ -3,27 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/sections/aboutme/</loc>
+    <loc>/research/</loc>
   </url>
   
   <url>
-    <loc>/sections/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/sections/from-another-life/</loc>
-  </url>
-  
-  <url>
-    <loc>/sections/office-hours/</loc>
-  </url>
-  
-  <url>
-    <loc>/sections/personal/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>/writing/</loc>
   </url>
   
   <url>
@@ -31,11 +15,7 @@
   </url>
   
   <url>
-    <loc>/sections/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/media/</loc>
   </url>
   
 </urlset>
