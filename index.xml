@@ -12,7 +12,7 @@
       
       <guid>/sections/aboutme/</guid>
       <description>I am a PhD Candidate from Harvard&amp;rsquo;s Department of Economics and Harvard Business School.
-My current research focuses on inequality and inefficiency in housing finance. I am particularly interested in issues surrounding racial equity and social welfare in mortgage markets.
+My current research focuses on inequality and inefficiency in housing finance. I am particularly interested in issues surrounding racial equity and social welfare in financial markets.
 My fields of specialization are Finance, Real Estate, Industrial Organization, and Econometrics.</description>
     </item>
     
@@ -32,7 +32,7 @@ My fields of specialization are Finance, Real Estate, Industrial Organization, a
       
       <guid>/sections/personal/</guid>
       <description>* Asterisks indicate presentation by a co-author.
-Website: This website was built using Hugo based on code from Gautam Rao.</description>
+Website: This static website was built using Hugo based on code from Gautam Rao.</description>
     </item>
     
   </channel>
